@@ -51,6 +51,7 @@ function HeroContent() {
                         key={idx} className='inline-block'>{word}&nbsp;</motion.span>
                 ))}
             </p>
+
         </div >
     )
 }
